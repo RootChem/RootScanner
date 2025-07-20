@@ -26,8 +26,9 @@ Python 3.8+ sürümüne sahip olmanız önerilir. Aşağıdaki modüller gerekli
 ## ⚙️ Kurulum
 
 ```bash
-git clone https://github.com/kullaniciadi/RootScanner.git
+git clone https://github.com/RootChem/RootScanner.git
 cd RootScanner
 python -m venv venv
 source venv/bin/activate  # Windows: venv\\Scripts\\activate
 pip install -r requirements.txt
+python rootscanner.py
